@@ -3,7 +3,7 @@ steps = [
     "2. Scroll and click on 'Programs' or 'Acquire' (whichever is present).",
     "3. From the dropdown, click on 'Undergraduate Programmes'.",
     "4. On that page, click on 'School of Engineering'.",
-    "5. Then, go to 'School of Arts, Humanities and Social Sciences'.",
+    "5. Then, go to 'School of Engineering and Social Sciences'.",
     "6. Finally, visit the 'About Chanakya University' page."
 ]
 
