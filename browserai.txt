@@ -1,0 +1,27 @@
+Simulated Navigation Task for Chanakya University:
+
+1. Open the homepage: https://chanakyauniversity.in/
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+2. Scroll and click on 'Programs' or 'Acquire' (whichever is present).
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+3. From the dropdown, click on 'Undergraduate Programmes'.
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+4. On that page, click on 'School of Engineering'.
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+5. Then, go to 'School of Engineering and Social Sciences'.
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+6. Finally, visit the 'About Chanakya University' page.
+➡Press Enter after you complete this step...
+Page summary: [Enter the main heading or title you see]
+
+ completed.
