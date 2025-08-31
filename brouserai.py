@@ -13,4 +13,4 @@ for step in steps:
     input(f"{step}\n➡Press Enter after you complete this step...")
     print("Page summary: [Enter the main heading or title you see]\n")
 
-print("ask completed.")
+print(" completed.")
