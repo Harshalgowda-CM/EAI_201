@@ -1,0 +1,26 @@
+
+=== CLASS COUNTS ===
+Class_Type
+Mammal          41
+Bird            20
+Fish            13
+Invertebrate    10
+Bug              8
+Reptile          5
+Amphibian        4
+Name: count, dtype: int64
+
+Class Imbalance Ratio = 10.25
+
+=== High Correlation Pairs (|corr| > 0.8) ===
+hair <-> eggs = -0.82
+hair <-> milk = 0.88
+hair <-> Number_Of_Animal_Species_In_Class = 0.81
+eggs <-> milk = -0.94
+eggs <-> Number_Of_Animal_Species_In_Class = -0.88
+milk <-> Number_Of_Animal_Species_In_Class = 0.95
+backbone <-> class_type = -0.83
+backbone <-> Class_Number = -0.83
+class_type <-> Class_Number = 1.00
+class_type <-> Number_Of_Animal_Species_In_Class = -0.84
+Class_Number <-> Number_Of_Animal_Species_In_Class = -0.84

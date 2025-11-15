@@ -1,0 +1,22 @@
+Loading and integrating datasets...
+
+Handling missing values (categorical -> 'unknown', numeric -> median)...
+Fill report summary (sample):
+  habitat_type: {'type': 'categorical', 'filled_count': X, 'fill_value': 'unknown'}
+  diet: {'type': 'categorical', 'filled_count': Y, 'fill_value': 'unknown'}
+  [other columns with fills will appear here as needed]
+
+Applying feature engineering...
+Final integrated dataset saved to: final_integrated_filled_engineered.csv
+
+Dataset shape: (N, M)
+Missing values: 0
+Duplicate rows: R
+
+First 3 rows:
+  animal_name  hair  feathers  eggs  milk  airborne  aquatic  predator  toothed  backbone  breathes  venomous  fins  legs  tail  domestic  catsize  class_type  class_name  habitat_type   diet           conservation_status  auxiliary_found  ecosystem_type  predator_score
+0    aardvark     1         0     0     1         0        0         1        1         1         1          0        0      4     0         0         1          1        Mammal     terrestrial   insectivore    least concern          True              0               1
+1    antelope     1         0     0     1         0        0         0        1         1         1          0        0      4     1         0         1          1        Mammal     terrestrial   herbivore      near threatened        True              0               1
+2        bass     0         0     1     0         0        1         1        1         1         0          0        1      0     1         0         0          3        Fish       freshwater    carnivore      least concern          True              1               3
+
+Engineered features: ['ecosystem_type', 'predator_score']
